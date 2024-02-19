@@ -31,12 +31,13 @@ const Tweet: React.FC = () => {
 
         <Content>
           <Header>
-            <strong>Rocketseat</strong>
-            <span>@rocketseat</span>
+            
+            <strong>Csp tech</strong>
+            <span>@csptech</span>
             <Dot />
-            <time>27 de jun</time>
+            <time>19 de Fevereiro </time>
           </Header>
-
+    
           {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
           <Description>Foguete não tem ré 🚀</Description>
 

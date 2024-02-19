@@ -22,22 +22,25 @@ const ProfilePage: React.FC = () => {
 
       <ProfileData>
         <EditButton outlined>Editar perfil</EditButton>
-
-        <h1>Guilherme Rodz</h1>
-        <h2>@guilherme_rodz</h2>
+        <h1>
+          Taís Anselmo</h1>
+        <h2>@tais_anselmo</h2>
 
         <p>
-          Developer at <a href="https://rocketseat.com.br">@Rocketseat</a>
+          Feito por Taís usando o  
+          <br>
+          </br>
+          <a href="https://rocketseat.com.br">@Rocketseat</a>
         </p>
 
         <ul>
           <li>
             <LocationIcon />
-            São Paulo, Brasil
+            Recife-PE, Brasil
           </li>
           <li>
             <CakeIcon />
-            Nascido(a) em 21 de junho de 2001
+            Nascido(a) em 13 de julho de 2001
           </li>
         </ul>
 
